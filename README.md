@@ -1,4 +1,15 @@
-# Hi there, I'm ATUL SHUKLA 👋
+<!-- TERMINAL HEADER / BANNER -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38X368&center=true&vCenter=true&width=600&lines=atul%40github+~+%25;%3E+ATUL+SHUKLA;%3E+AI+%26+Backend+Engineer;%3E+Building+ML+Models+%26+AI+Agents" alt="Terminal Header" />
+  </a>
+</p>
+
+---
+
+## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 `<𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>`! 👋
+---
+#  I'm ATUL SHUKLA 👋
 **Computer Science Engineering (Artificial Intelligence) Undergraduate**
 
 ---
