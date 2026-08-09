@@ -31,6 +31,16 @@ Computer Science Engineering (AI) undergraduate with a strong foundation in **Py
 - **Engineering:** Data Structures, System Design, Software Architecture, REST APIs, Relational Database Design, AWS Fundamentals
 
 ---
+---
+
+## 🚀 Featured Projects
+
+### 🪨 [Rock vs Mine Prediction](https://github.com/atleekumaar/rock-vs-mine-prediction)
+- **Tech Stack:** Python, Scikit-learn, Pandas, NumPy, Jupyter Notebook
+- **Overview:** Built an end-to-end Binary Classification machine learning pipeline using SONAR frequency data to classify underwater objects as either a **Rock** or a **Mine**.
+- **Performance:** Achieved **~83.4% Training Accuracy** and **~76.1% Test Accuracy** using Logistic Regression.
+
+---
 
 ## 💼 Virtual Experience Programs (Forage) — 2025
 
@@ -46,9 +56,6 @@ Completed industry-recognized virtual job simulations in Software Engineering, A
 ## 🎓 Education
 - **B.Tech in Computer Science Engineering (Artificial Intelligence)**  
   *Lucknow University* (Expected 2029)
-- **Intermediate (Class XII)** — *SGAV, Gonda* (2024)
-- **High School (Class X)** — *SGMMIC, Gonda* (2022)
-
 ---
 
 ## 📜 Certifications & Achievements
