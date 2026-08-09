@@ -4,12 +4,12 @@
 
 ---
 
-## 👨‍💻 Professional Summary
+##  Professional Summary
 Computer Science Engineering (AI) undergraduate with a strong foundation in **Python, Machine Learning, Data Science, Backend Development, and Cloud Computing**. Experienced in industry-designed virtual job simulations focused on Software Engineering, AI, Data Science, and Cloud Architecture. Skilled in building scalable software solutions, REST APIs, database design, and data-driven applications. 
 
 ---
 
-## 🛠️ Key Skills & Technologies
+##  Key Skills & Technologies
 
 **Languages & Web Tech:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -33,16 +33,16 @@ Computer Science Engineering (AI) undergraduate with a strong foundation in **Py
 ---
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🪨 [Rock vs Mine Prediction](https://github.com/atleekumaar/rock-vs-mine-prediction)
+###  [Rock vs Mine Prediction](https://github.com/atleekumaar/rock-vs-mine-prediction)
 - **Tech Stack:** Python, Scikit-learn, Pandas, NumPy, Jupyter Notebook
 - **Overview:** Built an end-to-end Binary Classification machine learning pipeline using SONAR frequency data to classify underwater objects as either a **Rock** or a **Mine**.
 - **Performance:** Achieved **~83.4% Training Accuracy** and **~76.1% Test Accuracy** using Logistic Regression.
 
 ---
 
-## 💼 Virtual Experience Programs (Forage) — 2025
+##  Virtual Experience Programs (Forage) — 2025
 
 Completed industry-recognized virtual job simulations in Software Engineering, AI, Data Science, Cloud Computing, and Cybersecurity:
 - **Walmart Global Tech** — Advanced Software Engineering
@@ -65,7 +65,7 @@ Completed industry-recognized virtual job simulations in Software Engineering, A
 - **British Airways** — Data Science (Forage)
 - **Tata** — Generative AI Powered Data Analytics (Forage)
 - **Deloitte Australia** — Data Analytics, Technology & Cybersecurity (Forage)
-- 🏆 Successfully completed multiple industry-recognized virtual experience programs from leading global organizations.
+-  Successfully completed multiple industry-recognized virtual experience programs from leading global organizations.
 
 ---
 
