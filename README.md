@@ -41,15 +41,7 @@ Computer Science Engineering (AI) undergraduate with a strong foundation in **Py
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atleekumaar&show_icons=true&theme=radial" alt="Atul's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atleekumaar&layout=compact&theme=radial" alt="Top Languages" />
-</p>
-
----
 
 ## Featured Projects
 
