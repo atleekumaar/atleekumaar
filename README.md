@@ -72,11 +72,11 @@ Completed industry-recognized virtual job simulations in Software Engineering, A
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atleekumaar&show_icons=true&theme=tokyonight" alt="Atul's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=atleekumaar&show_icons=true&theme=tokyonight" alt="Atul's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atleekumaar&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=atleekumaar&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
