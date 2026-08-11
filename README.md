@@ -47,7 +47,7 @@ Computer Science Engineering (AI) undergraduate with a strong foundation in **Py
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 **Core Competencies:**
-- **AI/ML:** Machine Learning, Deep Learning, Neural Networks, Transformers, LLMs, EDA, Data Visualization
+- **AI/ML:** Machine Learning, Deep Learning, Neural Networks, Transformers, LLMs, EDA, Data Visualization, Feature Engineering
 - **Engineering:** Data Structures, System Design, Software Architecture, REST APIs, Relational Database Design, Cloud Fundamentals
 
 ---
