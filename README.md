@@ -21,11 +21,11 @@
 
 | GitHub Overview | GitHub Streak |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=atleekumaar&show_icons=true&theme=radial&hide_border=true&count_private=true" alt="GitHub Overview" width="400"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=atleekumaar&theme=radial&hide_border=true" alt="GitHub Streak" width="400"/> |
+| <img src="https://github-readme-stats.vercel.app/api?username=atleekumaar&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Overview" width="400" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=atleekumaar&theme=dark&hide_border=true" alt="GitHub Streak" width="400" /> |
 
 | Top Languages | Most Used Languages |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atleekumaar&layout=compact&theme=radial&hide_border=true" alt="Languages by Repo" width="400"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atleekumaar&layout=donut&theme=radial&hide_border=true" alt="Languages by Commit" width="400"/> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atleekumaar&layout=compact&theme=dark&hide_border=true" alt="Languages by Repo" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atleekumaar&layout=donut&theme=dark&hide_border=true" alt="Languages by Commit" width="400" /> |
 
 ---
 ## 📈 Contribution Activity
