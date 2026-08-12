@@ -18,12 +18,6 @@
 
 ---
 
-## 📈 Contribution Activity
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=atleekumaar&theme=react-dark&hide_border=true)
-
----
-
 ## Professional Summary
 Computer Science Engineering (AI) undergraduate with a strong foundation in **Python, Machine Learning, Deep Learning, Data Science, Full-Stack & Backend Development, and Cloud Computing**. Experienced in industry-designed virtual job simulations focused on Software Engineering, AI, Data Science, and Cloud Architecture. Skilled in building scalable software solutions, REST APIs, database design, and data-driven applications.
 
@@ -59,6 +53,12 @@ Computer Science Engineering (AI) undergraduate with a strong foundation in **Py
 **Core Competencies:**
 - **AI/ML:** Machine Learning, Deep Learning, Neural Networks, Transformers, LLMs, EDA, Data Visualization, Feature Engineering
 - **Engineering:** Data Structures, System Design, Software Architecture, REST APIs, Relational Database Design, Cloud Fundamentals
+
+---
+
+## 📈 Contribution Activity
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=atleekumaar&theme=react-dark&hide_border=true)
 
 ---
 
