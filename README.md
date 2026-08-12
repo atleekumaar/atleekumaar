@@ -5,12 +5,34 @@
   </a>
 </p>
 
+
+[![Followers](https://img.shields.io/github/followers/atleekumaar?label=Followers&style=flat-square&color=blue)](https://github.com/atleekumaar?tab=followers)
+
 ---
+
 
 ## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 `<𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>`! 👋
 ---
 #  I'm ATUL SHUKLA 👋
 **Computer Science Engineering (Artificial Intelligence) Undergraduate**
+
+---
+## 📌 Live Dashboard & Activity
+
+| GitHub Overview | GitHub Streak |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=atleekumaar&show_icons=true&theme=radial&hide_border=true" alt="GitHub Overview" width="400"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=atleekumaar&theme=radial&hide_border=true" alt="GitHub Streak" width="400"/> |
+
+| Top Languages | Most Used Languages |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atleekumaar&layout=compact&theme=radial&hide_border=true" alt="Languages by Repo" width="400"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atleekumaar&layout=donut&theme=radial&hide_border=true" alt="Languages by Commit" width="400"/> |
+
+
+
+---
+## 📈 Contribution Activity
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=atleekumaar&theme=react-dark&hide_border=true)
 
 ---
 
