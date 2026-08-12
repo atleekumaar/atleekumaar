@@ -17,18 +17,7 @@
 **Computer Science Engineering (Artificial Intelligence) Undergraduate**
 
 ---
-## 📌 Live Dashboard & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atleekumaar&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Overview" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atleekumaar&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atleekumaar&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atleekumaar&layout=donut&theme=dark&hide_border=true" alt="Most Used Languages" width="48%" />
-</p>
-
----
 ## 📈 Contribution Activity
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=atleekumaar&theme=react-dark&hide_border=true)
