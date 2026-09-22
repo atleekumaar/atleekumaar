@@ -64,7 +64,18 @@
 - **Overview:** Developed a real-time foveated LiDAR perception pipeline that converts raw 3D point clouds into a variable-resolution 2.5D elevation map with semantic, traversability, confidence, and point-density layers. Implemented distance-adaptive spatial representation with **5 cm resolution (0–10 m), 15 cm (10–40 m), and 50 cm (40–100 m)** to preserve near-field geometric detail while reducing computational overhead at longer ranges, along with semantic segmentation for drivable terrain, static obstacles, and dynamic objects.
 - **Performance:** Achieved **23.37 ms production-equivalent end-to-end perception latency (~42.79 FPS)** after native C++/CUDA and FP16 inference optimizations, reducing pipeline latency by **~75% (from 94.10 ms to 23.37 ms)**, accelerating 2.5D grid rasterization by **3.88x** using C++/PyBind11, and maintaining **52.05% semantic mIoU with zero frame drops** across 1,000-frame endurance testing.
 
-## [Kimi K3 Architecture Implementation (kimi-k3-toy)](https://github.com/atleekumaar/atleekumaar)
+
+### [RAG Retrieval Optimization Lab](https://github.com/atleekumaar/rag-retrieval-optimization) | [Live Web App](https://rag-retrieval-optimization.streamlit.app)
+- **Tech Stack:** Python, PyTorch, ONNX Runtime, FAISS, BM25, CrossEncoders, Streamlit, SQuAD
+- **Overview:** Developed an empirical, research-oriented laboratory to systematically optimize RAG pipelines under zero-compute constraints. Evaluated multi-embedding architectures, advanced chunking strategies, hybrid dense-lexical retrieval with Reciprocal Rank Fusion (RRF), cross-attention reranking, and relevance threshold filtering.
+- **Key Metrics & Impact:**
+  - **+12.3% MRR Improvement:** Boosted retrieval MRR from 0.831 to 0.933 using Hybrid Retrieval (Dense + BM25) paired with CrossEncoder reranking.
+  - **Zero Boundary Truncation:** Eliminated a 28.4% text truncation rate by transitioning from fixed-size sliding windows to Hierarchical Parent-Child chunking.
+  - **2.8x CPU Acceleration:** Applied INT8 dynamic quantization and ONNX Runtime graph export, dropping inference latency from 14.2ms to 5.1ms with >99.7% vector fidelity.
+  - **-42.8% Hallucinations:** Reduced hallucination rates via score-threshold relevance filtering ($\tau = 0.10$), cutting prompt token overhead by 34.2%.
+
+
+### [Kimi K3 Architecture Implementation (kimi-k3-toy)](https://github.com/atleekumaar/atleekumaar)
 - *Tech Stack:* Python, PyTorch, Transformers, LLMs
 - *Overview:* Developed a from-scratch PyTorch implementation of the Kimi K3 LLM architecture, translating complex research paper specifications into functional code without relying on external reference implementations.
 - *Performance:* Engineered custom neural network components—including Gated Multi-Head Latent Attention (MLA), Attention Residuals (AttnRes), and Stable Latent Mixture-of-Experts (MoE) layers—to optimize context retention and computational efficiency.
