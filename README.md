@@ -65,6 +65,16 @@
 - **Performance:** Achieved **23.37 ms production-equivalent end-to-end perception latency (~42.79 FPS)** after native C++/CUDA and FP16 inference optimizations, reducing pipeline latency by **~75% (from 94.10 ms to 23.37 ms)**, accelerating 2.5D grid rasterization by **3.88x** using C++/PyBind11, and maintaining **52.05% semantic mIoU with zero frame drops** across 1,000-frame endurance testing.
 
 
+###  [HemeLite Research](https://github.com/atleekumaar/hemelite-research) | [Live Web App](https://temporary-fast-sable-wdbooad.vercel.app/)
+**Efficient Peripheral Blood-Cell Differential Classification via Depthwise Convolutions, Channel Attention, and Distillation**
+* **Overview:** An interactive medical AI research testbed and diagnostic platform evaluating compressed CNN architectures for resource-constrained clinical hardware.
+* **Tech Stack:** React 19, TanStack Start/Router, PyTorch, ONNX Runtime, Tailwind CSS, Recharts, Zustand.
+* **Key Achievements:**
+  * Reduced model parameters by **92.3%** ($11.18\text{M} \rightarrow 0.86\text{M}$) and latency by **83.2%** ($48.2\text{ms} \rightarrow 8.1\text{ms}$) compared to ResNet18 while maintaining **96.9% Top-1 Accuracy**.
+  * Applied Post-Training INT8 Quantization (PTQ) achieving **3.4ms CPU latency (294 FPS)** at **0.91 MB** footprint.
+  * Integrated an interactive virtual microscope eyepiece, live feature extraction, and real-time MAC cost calculator.
+ 
+
 ### [RAG Retrieval Optimization Lab](https://github.com/atleekumaar/rag-retrieval-optimization) | [Live Web App](https://rag-retrieval-optimization.streamlit.app)
 - **Tech Stack:** Python, PyTorch, ONNX Runtime, FAISS, BM25, CrossEncoders, Streamlit, SQuAD
 - **Overview:** Developed an empirical, research-oriented laboratory to systematically optimize RAG pipelines under zero-compute constraints. Evaluated multi-embedding architectures, advanced chunking strategies, hybrid dense-lexical retrieval with Reciprocal Rank Fusion (RRF), cross-attention reranking, and relevance threshold filtering.
