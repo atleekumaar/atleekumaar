@@ -59,7 +59,7 @@
 
 ## Featured Projects
 
-### [Foveated 2.5D LiDAR Mapping for Autonomous Navigation](https://github.com/AmitKumarTripathi123/foveated-lidar-mapping) |[Live Web App](https://frontend-henna-chi-pu2t4bz6wk.vercel.app)
+### [Foveated 2.5D LiDAR Mapping for Autonomous Navigation](https://github.com/AmitKumarTripathi123/foveated-lidar-mapping) |[Live Web App](https://foveated-lidar-mapping.vercel.app/)
 - **Tech Stack:** Python, C++17, CUDA, PyTorch, SPVCNN, PyBind11, NumPy, Numba, ROS2, SemanticPOSS
 - **Overview:** Developed a real-time foveated LiDAR perception pipeline that converts raw 3D point clouds into a variable-resolution 2.5D elevation map with semantic, traversability, confidence, and point-density layers. Implemented distance-adaptive spatial representation with **5 cm resolution (0–10 m), 15 cm (10–40 m), and 50 cm (40–100 m)** to preserve near-field geometric detail while reducing computational overhead at longer ranges, along with semantic segmentation for drivable terrain, static obstacles, and dynamic objects.
 - **Performance:** Achieved **23.37 ms production-equivalent end-to-end perception latency (~42.79 FPS)** after native C++/CUDA and FP16 inference optimizations, reducing pipeline latency by **~75% (from 94.10 ms to 23.37 ms)**, accelerating 2.5D grid rasterization by **3.88x** using C++/PyBind11, and maintaining **52.05% semantic mIoU with zero frame drops** across 1,000-frame endurance testing.
