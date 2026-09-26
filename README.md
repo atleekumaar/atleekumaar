@@ -59,6 +59,11 @@
 
 ## Featured Projects
 
+### [VyaparMitra — AI-Powered Business OS & Multilingual Copilot](https://github.com/atleekumaar/VyaparMitra) | [Live Web App](https://vyaparmitra.onrender.com/)
+- **Tech Stack:** Python 3.12, FastAPI, React 19, TypeScript, Tailwind CSS, Scikit-learn, Apache Parquet, Groq LPU, Twilio API, Docker
+- **Overview:** Engineered an enterprise-grade, localized business operating system and conversational AI assistant for retail merchants across India. Built real-time financial command centers, hyperlocal peer benchmarking across 6 operational metrics (Repeat Rate, Basket Size, Failure Rate, Growth) with hierarchical fallback, an interactive offline cash ledger, and an automated decision engine for inventory restock alerts, customer churn mitigation, and cross-sell bundling with auditable data evidence.
+- **Performance:** Implemented a 100% zero-hallucination multilingual AI Copilot (Hindi, Hinglish, English) with ultra-fast Groq LPU inference (`llama-3.3-70b` / `qwen3.8`), achieving **< 15 ms P95 API response times**, **2.08s end-to-end data pipeline throughput across 10,000+ transactions**, **98/100 Lighthouse performance score**, and **100% pass rate across 173 automated test suites**.
+
 ### [Foveated 2.5D LiDAR Mapping for Autonomous Navigation](https://github.com/AmitKumarTripathi123/foveated-lidar-mapping) |[Live Web App](https://foveated-lidar-mapping.vercel.app/)
 - **Tech Stack:** Python, C++17, CUDA, PyTorch, SPVCNN, PyBind11, NumPy, Numba, ROS2, SemanticPOSS
 - **Overview:** Developed a real-time foveated LiDAR perception pipeline that converts raw 3D point clouds into a variable-resolution 2.5D elevation map with semantic, traversability, confidence, and point-density layers. Implemented distance-adaptive spatial representation with **5 cm resolution (0–10 m), 15 cm (10–40 m), and 50 cm (40–100 m)** to preserve near-field geometric detail while reducing computational overhead at longer ranges, along with semantic segmentation for drivable terrain, static obstacles, and dynamic objects.
