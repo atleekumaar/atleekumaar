@@ -49,12 +49,6 @@
 - ** Engineering & Architecture: ** Data Structures, System Design, Software Architecture, REST APIs, Database Design, EDA, Feature Engineering
 ---
 
-## 📈 Contribution Activity
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=atleekumaar&theme=react-dark&hide_border=true)
-
----
-
 
 
 ## Featured Projects
