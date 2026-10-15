@@ -75,10 +75,6 @@
 - **Overview:** Developed and deployed an end-to-end medical risk diagnostic web application using Support Vector Machine (SVM) and custom CSS Dark Theme UI. Includes diagnostic parameter metrics and downloadable patient reports.
 - **Performance:** Achieved **~77.3% Test Accuracy** with standard feature scaling.
 
-### [Rock vs Mine Prediction](https://github.com/atleekumaar/rock-vs-mine-prediction) | [Live Web App](https://blank-app-faabjyd1lpg.streamlit.app/)
-- **Tech Stack:** Python, Scikit-learn, Pandas, NumPy, Jupyter Notebook
-- **Overview:** Built an end-to-end Binary Classification machine learning pipeline using SONAR frequency data to classify underwater objects as either a **Rock** or a **Mine**.
-- **Performance:** Achieved **~83.4% Training Accuracy** and **~76.1% Test Accuracy** using Logistic Regression.
 
 ---
 
