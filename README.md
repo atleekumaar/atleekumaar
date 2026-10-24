@@ -79,7 +79,6 @@
 - **Overview:** Developed and deployed an end-to-end medical risk diagnostic web application using Support Vector Machine (SVM) and custom CSS Dark Theme UI. Includes diagnostic parameter metrics and downloadable patient reports.
 - **Performance:** Achieved **~77.3% Test Accuracy** with standard feature scaling.
 
-
 ---
 
 ## Virtual Experience Programs (Forage) — 2025
