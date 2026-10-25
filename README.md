@@ -7,7 +7,7 @@
 
 
 [![Followers](https://img.shields.io/github/followers/atleekumaar?label=Followers&style=flat-square&color=blue)](https://github.com/atleekumaar?tab=followers)
-
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/atleekumaar/badge.svg)](https://hub.xerj.org/contributors/atleekumaar)
 ---
 
 
