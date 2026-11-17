@@ -89,7 +89,6 @@ Completed industry-recognized virtual job simulations in Software Engineering, A
 - **Amazon Web Services (AWS)** — Solutions Architecture
 - **British Airways** — Data Science
 - **Tata** — Generative AI Powered Data Analytics
-
 ---
 
 ## 🎓 Education
